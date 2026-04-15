@@ -36,6 +36,3 @@ O principal objetivo deste projeto é:
 - 🤖 Scikit-learn  
 - 📓 Jupyter Notebook  
 
----
-
-## 📂 Estrutura do Projeto
